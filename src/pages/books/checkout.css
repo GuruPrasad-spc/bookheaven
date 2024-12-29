@@ -1,0 +1,16 @@
+.checkout-container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 100vh; /* Full height of the viewport */
+ 
+}
+
+.checkout-fieldset {
+    border: 2px solid #000; /* 2px solid border */
+    padding: 50px; /* Add some padding */
+    border-radius: 15px; /* Optional: rounded corners */
+    width: 450px; /* Set a fixed width for the fieldset */
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.1); /* Optional: add a shadow */
+    padding-right: 105px;
+}
